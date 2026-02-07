@@ -1,4 +1,4 @@
-PROGRAM = 20202tp1
+PROGRAM = image_editor
 CC = gcc
 CFLAGS = -Werror -Wall -pedantic -std=c99 -g
 LDLIBS = -lm
