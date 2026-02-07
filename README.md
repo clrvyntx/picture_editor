@@ -3,8 +3,6 @@
 A command-line image editor written in C.  
 The program loads an image, applies a sequence of operations, and writes the result to an output file or standard output.
 
----
-
 ## Features
 
 - Supports PPM and BMP image formats
@@ -16,8 +14,6 @@ The program loads an image, applies a sequence of operations, and writes the res
   - Vertical flip
   - Crop
   - Filters (with optional parameters)
-
----
 
 ## Compilation
 
